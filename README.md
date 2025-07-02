@@ -7,3 +7,4 @@ This browser includes basic functionality:
 - Reload and Home buttons
 - Dynamic address bar that updates with current URL
 - Homepage is set to Google by default
+
